@@ -1,8 +1,8 @@
 function getReduction(price, age) {
 	if (age <= 5) {
-		prix = "0";
+		price = "0";
 	} else if (age <= 30) {
-		prix = "45";
+		price = "45";
 	}
 }
 
